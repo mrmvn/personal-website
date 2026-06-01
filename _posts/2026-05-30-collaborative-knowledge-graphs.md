@@ -14,7 +14,7 @@ Graphs are most suitable to encode and represent interconnections between nodes,
 In a web whose traffic is to be dominated and mediated by bots, in which information is to be mediated largely through search engines and LLMs, structuring data becomes even more important and valuable. As LLM training—and to some extent, inference—break the link between original information sources and output statements, human-curated KGs provide deterministically verifiable, queriable and answerable knowledge. 
 <!-- linked sources of information and statements that facilitate verifiability throughout the retrieval chain.   -->
 properties: queriable, answerable
-+ Use of structured data during training or at inference time (GraphRAG) help reduce hallucination [^pan]
++ Use of structured data during pre-training (https://arxiv.org/abs/2002.08909), training or at inference time (GraphRAG https://arxiv.org/abs/2005.11401) help reduce hallucination [^pan]
 
 Here is a review of different examples of collaborative KGs (CKGs), distinguishing different types of collaboration. 
 The aim is to broadly cover the panorama of CKGs, but certainly not of all open KG databases.
@@ -26,7 +26,7 @@ We'll be using these main examples throughout:
 - [Wikidata](https://www.wikidata.org/)[^vrandecic] for encyclopedic knowledge, the most studied example of CKG,
 - [Wikibase ecosystem](https://wikibase-metadata.wmcloud.org/)[^diefenbach], a interoperable pool of KGs, some of which CKGs
 - [DBpedia](https://www.dbpedia.org/)[^lehmann],
-- [ORKG](https://orkg.org/)[^auer][^jaradeh] for scholarly knowledge
+- [ORKG](https://orkg.org/)[^auer][^jaradeh] for scholarly knowledge,
 - [schema.org](https://schema.org/)[^guha]
 
  If you think there are some important CKGs missing from this review, I'd be very grateful for any suggestions.
@@ -52,27 +52,37 @@ Collaboration can happen at different levels, namely data entry, ontology or alg
 A first way to collaborate on knowledge graphs is to let a group of humans create and edit the data itself.
 The resulting KGs can thus be called crowdourced KGs.
 
-Wikidata allows anyone —logged in or not— to edit the KG by creating or editing items and statements.
+Wikidata allows anyone —logged in or not— to edit the KG by creating or editing items and statements. Editors are encouraged to associate references to justify each property. 
+
+Beyond Wikidata, there are thousands of 'Wikibases', i.e. other projects based on the Wikibase software. These projects are generally managed by different communities, with their own rules and objectives. Among prominent Wikibaseswith collaborative data entry, we find: 
+
 
 ORKG invites contributions from logged-in users to add or edit various elements of the KG: comparisons, reviews, lists, papers, benchmarks, etc... 
 
 ### Collective ontologies
-How to update Wikidata's ontology?
-- https://www.wikidata.org/wiki/Wikidata:WikiProject_Ontology --> not easy but in principle anyone can contribute
+
+<!-- In Wikidata, properties are items too, whose ID start with a "P", not a "Q" as for entities. -->
+Wikidata's ontology is itself collaboratively maintained. While anyone can create classes (items, with Q-IDs), proposing properties (with P-IDs) require community discussion and consensus.
+This process helps keep the ontology consistent, but can also slow schema evolution and requires active community moderation.
+<!-- Properties may have constraint statements and example usage on their pages. -->
+- https://www.wikidata.org/wiki/Wikidata:WikiProject_Ontology
 - https://www.wikidata.org/wiki/Help:Property_constraints_portal
 
-Wikibase lets you create your own ontology underlying a KG. 
-There are various other CKGs with collaborative ontologies implemented as wikibases.
-(Any limitations?)
 
-DBpedia 
+<!-- Wikibase software lets its admins decide upon how it should be managed, and thus -->
+Several wikibase KGs feature collaborative ontology management: FactGrid (?), Wikibase World (?)... 
+Details about how these work..
+The different schemas/ontologies may be different, but can also be designed so as to interconnect with other Wikibase projects.
+However, harder to interoperate with other KGs which do not follow the Wikibase data model[^dobriy][^shimizu]
 
 
-Interoperable ontologies
+Some projects are focused solely on collaborative design of KG ontologies and schemas, with the aim of promoting interoperability among KGs:
+- https://schema.org/ (https://schema.org/docs/howwework.html)
+- https://obofoundry.org/
 
-https://schema.org/
 
-https://obofoundry.org/
+DBpedia
+- https://mappings.dbpedia.org/index.php/How_to_edit_the_DBpedia_Ontology
 
 
 
@@ -91,6 +101,19 @@ LLM-assisted KG construction
 <!-- ### Other forms of collaborative governance -->
 <!-- optional section -->
 <!-- Platform design, rules, permissions that drive the collaborative curation of KGs. -->
+
+
+### Discussion
+
+<!-- Nuances of governance. -->
+<!-- Collaboration/Power asymmetry -->
+Though we outlined three different axes of collaboration, every project has its own community and governance structure.
+Though involving community processes, ontology and algorithmic curation is often reserved to a small groups of skilled developers, in some cases with strong ties with major big tech companies (e.g., schema.org).
+
+
+Possible terms to relate: From Peer-production to big-tech control...
+
+
 
 
 ### See also
@@ -119,3 +142,7 @@ Resources on KGs: ...
 [^diefenbach]: Diefenbach, Dennis, Max De Wilde, and Samantha Alipio. ‘Wikibase as an Infrastructure for Knowledge Graphs: The EU Knowledge Graph’. In The Semantic Web – ISWC 2021, vol. 12922, edited by Andreas Hotho, Eva Blomqvist, Stefan Dietze, et al. Lecture Notes in Computer Science. Springer International Publishing, 2021. https://doi.org/10.1007/978-3-030-88361-4_37.
 
 [^auer]: Auer, Sören, Viktor Kovtun, Manuel Prinz, Anna Kasprzik, Markus Stocker, and Maria Esther Vidal. ‘Towards a Knowledge Graph for Science’. Proceedings of the 8th International Conference on Web Intelligence, Mining and Semantics (New York, NY, USA), WIMS ’18, 25 June 2018, 1–6. https://doi.org/10.1145/3227609.3227689.
+
+[^shimizu]: Shimizu, Cogan, Andrew Eells, Seila Gonzalez, et al. ‘Ontology Design Facilitating Wikibase Integration -- and a Worked Example for Historical Data’. arXiv:2205.14032. Preprint, arXiv, 27 May 2022. https://doi.org/10.48550/arXiv.2205.14032.
+
+[^dobriy]: Dobriy, Daniil, and Axel Polleres. Analysing and Promoting Ontology Interoperability in Wikibase. n.d.
