@@ -25,12 +25,12 @@ description: "Mario Morvan's website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mariomorvan.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
-repository: "mariomorvan/personal-website"
-github_username:  mariomorvan
+repository: "mrmvn/personal-website"
+github_username:  mrmvn
 author:
   # name: "Mario Morvan"
   bio: "Interdisciplinary researcher, data & ML scientist, technologist and communicator with an active interest in opening knowledge, science and democracy."
-  github: mariomorvan
+  github: mrmvn
   email: contact-mario-morvan@pm.me
   orcid: test
   links:
@@ -44,7 +44,7 @@ author:
     #   url: "mailto:contact-mario-morvan@pm.me"
     # - label: "Github"
     #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/mariomorvan"
+    #   url: "https://github.com/mrmvn"
   # email: ccontact-mario-morvan@pm.me
 
 # Build settings
