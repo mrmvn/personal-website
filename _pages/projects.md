@@ -5,8 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Current projects
+## Ongoing
 
+- *A Knowledge Graph of Public AI Data* ([blog](/kg-public-ai-data/), [wikibase](https://public-ai-data-sources.wikibase.cloud/), [repo](https://github.com/mrmvn/public-ai-data-viz))
 - *Citation Location Needed*, to be presented at Wikimania 2026's research track ([blog](/citation-location-needed/))
 - *DemocraTree: An Inventory and Interactive Map of Democratic
 Forms*, to be presented at the Democracy & Digital Citizenship 2026 conference,
