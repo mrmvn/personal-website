@@ -1,29 +1,41 @@
 ---
 title:  "Collaborative Knowledge Graphs"
 date:   2026-05-30
+last_modified_at: 2026-06-04
+tags: ["Knowledge Graph", "Co-production"]
 categories: ["Blog"]
 toc: true
 ---
 
 <!-- Main goal: establish a typology of CKGs, show existing success, their promise and untapped potential -->
-
-Structuring information through knowledge graphs (KGs) offers many advantages on the web. <!-- maybe make it more punchy and broader -->
-
-Graphs are most suitable to encode and represent interconnections between nodes, i.e. things. Knowledge graphs add a semantic layer, whereby nodes become typed entities linked through typed relations or statements, each type with its properties. This combined relational and semantic structure is particularly well suited for information tracing and statement verification. It can foster not only trust, but also interoperability between different KG databases, using shared standards or following the linked data framework/paradigm.
-
-In a web whose traffic is to be dominated and mediated by bots, in which information is to be mediated largely through search engines and LLMs, structuring data becomes even more important and valuable. As LLM training—and to some extent, inference—break the link between original information sources and output statements, human-curated KGs provide deterministically verifiable, queriable and answerable knowledge. 
-<!-- linked sources of information and statements that facilitate verifiability throughout the retrieval chain.   -->
-properties: queriable, answerable
-+ Use of structured data during pre-training (https://arxiv.org/abs/2002.08909), training or at inference time (GraphRAG https://arxiv.org/abs/2005.11401) help reduce hallucination [^pan]
-
-Here is a review of different examples of collaborative KGs (CKGs), distinguishing different types of collaboration. 
+Open, collaborative curation of knowledge graphs (KGs) has already contributed to making the internet more structured and trustworthy, and shows promise for continuing to do so in the coming decades.
+We use the term collaborative knowledge graph (CKG) for KGs that are collaboratively curated by a group of people.
+<!-- What role will it play, and forms will it take in the coming decades? -->
+Below is a review of different examples of CKGs, identifying three main types of collaboration. 
 The aim is to broadly cover the panorama of CKGs, but certainly not of all open KG databases.
-The potential of CKGs has only partially been tapped, and suggest some frontier applications for them.
 
-## KG examples
+<!-- We anticipate that its scope and benefits will grow over -->
+<!-- But has it tapped its full potential? What roles and forms will this take in the coming decasdes? -->
+<!-- Structuring information through knowledge graphs (KGs) offers many advantages on the web.  -->
+<!-- maybe make it more punchy and broader -->
+
+## Why Knowledge Graphs?
+
+Graphs are most suitable to encode and represent interconnections in data, as edges between nodes. Knowledge graphs add a semantic layer to graphs, whereby nodes become typed entities linked through typed relations or statements. This combined relational and semantic structure is particularly well suited for tracing, verifying, querying information. It can foster not only trust, but also interoperability between different KG databases, using shared standards or principles such as [linked data](https://en.wikipedia.org/wiki/Linked_data).
+
+In a web whose traffic is to be dominated and mediated by bots, and where information access is to be mediated largely through search engines and LLMs, structuring data becomes even more important and valuable. As LLM training —and to some extent, inference— break the link between original information sources and output statements, human-curated KGs provide deterministically queriable, verifiable, and answerable knowledge. This structured, high-trust data can then be used in other collaborative projects or to improve the reliability of LLMs during training or inference phases[^pan]. 
+<!-- linked sources of information and statements that facilitate verifiability throughout the retrieval chain.   -->
+<!-- + Use of structured data during pre-training (https://arxiv.org/abs/2002.08909), training or at inference time (GraphRAG https://arxiv.org/abs/2005.11401) help reduce hallucination  -->
+
+<!-- Here is a review of different examples of collaborative KGs (CKGs), distinguishing different types of collaboration. 
+The aim is to broadly cover the panorama of CKGs, but certainly not of all open KG databases. -->
+<!-- The potential of CKGs has only partially been tapped, and suggest some frontier applications for them. -->
+
+
+## Examples of CKGs
 
 We'll be using these main examples throughout:
-- [Wikidata](https://www.wikidata.org/)[^vrandecic] for encyclopedic knowledge, the most studied example of CKG,
+- [Wikidata](https://www.wikidata.org/)[^vrandecic], a knowledge graph used for encyclopedic knowledge the most studied example of CKG,
 - [Wikibase ecosystem](https://wikibase-metadata.wmcloud.org/)[^diefenbach], a interoperable pool of KGs, some of which CKGs
 - [DBpedia](https://www.dbpedia.org/)[^lehmann],
 - [ORKG](https://orkg.org/)[^auer][^jaradeh] for scholarly knowledge,
@@ -31,12 +43,9 @@ We'll be using these main examples throughout:
 
  If you think there are some important CKGs missing from this review, I'd be very grateful for any suggestions.
 
-## A typology of collaboration in KG curation
+## A typology of collaboration in KGs
 
-A CKG is a KG that is collaboratively curated by a group of people.
 Collaboration can happen at different levels, namely data entry, ontology or algorithmic curation.
-
-
 
 <!-- This collaboration can happen at different levels:
 - editing the graph data, or crowdsourced KGs
@@ -103,7 +112,7 @@ LLM-assisted KG construction
 <!-- Platform design, rules, permissions that drive the collaborative curation of KGs. -->
 
 
-### Discussion
+## Discussion
 
 <!-- Nuances of governance. -->
 <!-- Collaboration/Power asymmetry -->
@@ -116,13 +125,13 @@ Possible terms to relate: From Peer-production to big-tech control...
 
 
 
-### See also
+## See also
 
 Resources on KGs: ...
 
 
 
-### References
+## References
 
 [^gianluca]: Demartini, Gianluca. ‘Implicit Bias in Crowdsourced Knowledge Graphs’. Companion Proceedings of The 2019 World Wide Web Conference (New York, NY, USA), WWW ’19, 13 May 2019, 624–30. https://doi.org/10.1145/3308560.3317307.
 [^piscopo1]: Piscopo, Alessandro, Chris Phethean, and Elena Simperl. ‘What Makes a Good Collaborative Knowledge Graph: Group Composition and Quality in Wikidata’. In Social Informatics, edited by Giovanni Luca Ciampaglia, Afra Mashhadi, and Taha Yasseri. Springer International Publishing, 2017. https://doi.org/10.1007/978-3-319-67217-5_19.
