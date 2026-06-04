@@ -1,9 +1,9 @@
 ---
-title:  "Collaborative Knowledge Graphs"
+title:  "Collaborative Knowledge Graphs:<br> Three ways to build knowledge together"
 date:   2026-05-30
 last_modified_at: 2026-06-04
 tags: ["Knowledge Graph", "Co-production"]
-categories: ["Blog"]
+categories: ["Research Blog"]
 toc: true
 ---
 
