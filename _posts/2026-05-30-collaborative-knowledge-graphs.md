@@ -3,7 +3,7 @@ title:  "Collaborative Knowledge Graphs:<br> Three ways to build knowledge toget
 date:   2026-05-30
 last_modified_at: 2026-06-04
 tags: ["Knowledge Graph", "Co-production"]
-categories: ["Research Blog"]
+categories: ["Blog"]
 toc: true
 ---
 

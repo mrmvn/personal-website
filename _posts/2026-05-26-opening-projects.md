@@ -2,7 +2,8 @@
 title:  "A Case for Opening Projects"
 date:   2026-05-27
 tags: ["Open", "Projects", "Research"]
-categories: ["Essay"]
+categories: ["Blog"]
+excerpt: Towards a collectively managed ecology of projects 
 toc: true
 ---
 

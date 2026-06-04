@@ -3,7 +3,8 @@ title:  "Citation Location Needed"
 date:   2026-05-17
 last_modified_at: 2026-05-20
 tags: ["Wikipedia", "citations"]
-categories: ["Research"]
+categories: ["Research", "Blog"]
+excerpt: "How citing source segments can help fight misinformation on Wikipedia"
 toc: true
 ---
 

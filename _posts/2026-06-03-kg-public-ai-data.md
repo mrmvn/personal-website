@@ -1,8 +1,8 @@
 ---
-title:  "A Knowledge Graph of AI models & data"
+title:  "A Knowledge Graph of AI models and Visualisation of their training data"
 date:   2026-06-03
 tags: ["Open Data", "Public AI", "Knowledge Graph", "Linked Data"]
-categories: ["Open"]
+categories: ["Open", "Viz"]
 # toc: true
 ---
 
