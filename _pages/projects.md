@@ -3,8 +3,12 @@ title: Projects
 layout: single
 permalink: /projects/
 author_profile: true
+sidebar:
+  nav: "projects_sidebar"
 ---
 
+Ongoing and past projects below.\
+You'll find future project ideas [there](/ideas).
 ## Ongoing
 
 - *A Knowledge Graph of Public AI Data* ([blog](/kg-public-ai-data/), [wikibase](https://public-ai-data-sources.wikibase.cloud/), [repo](https://github.com/mrmvn/public-ai-data-viz))
