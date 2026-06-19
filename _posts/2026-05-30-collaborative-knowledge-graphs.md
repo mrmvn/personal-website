@@ -1,5 +1,5 @@
 ---
-title:  "Collaborative Knowledge Graphs:<br> Three ways to build knowledge together"
+title:  "Three Ways to Collaborate on Knowledge Graphs"
 date:   2026-05-30
 last_modified_at: 2026-06-04
 tags: ["Knowledge Graph", "Co-production"]
