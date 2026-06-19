@@ -3,6 +3,7 @@ title: Project ideas
 layout: single
 permalink: /ideas/
 author_profile: true
+last_modified_at: 2026-06-19
 sidebar:
   nav: "projects_sidebar"
 ---
