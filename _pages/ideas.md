@@ -14,18 +14,24 @@ You'll find past and ongoing projects [there](/projects).
 
 - What has been, what could be, what will be? A taxonomy of collective modelling modalities
 - Who decides the topics? Power imbalance on the informational public sphere
-- Collective coherence mechanisms on peer produced projects
+- Connectivity and coherence of collectively modelled knowledge 
 - Citizen-washing: the veil of modern democratic participation
 
+## R&D on Collaborative Platforms
 
-## New collaborative platforms
+For collective ideation, impact assessment, opining, claim-linking & fact-checking...? 
 
-What could new platforms for collaborative impact measurement, fact-checking, ideation, opining... look like? 
-
-
-## Open data
+## Open Data
 
 - A semantic vector of books
-- Knowledge graphs of quotations
+- Knowledge graphs of quotations & sources
 - Knowledge graphs of citations
 - Knowledge graph of collaborative tools and projects
+- Translations of public sources
+
+## Software
+
+- Collaborative ontology design
+- Probabilistic calendar/planner
+- Projects mapping software
+- LLM expert on democratic theories and social protection
