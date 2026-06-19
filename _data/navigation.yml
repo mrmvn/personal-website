@@ -4,3 +4,12 @@ main:
     url: /projects/
   - title: "Posts"
     url: /posts/
+
+
+projects_sidebar:
+  - title: "Projects"
+    children:
+      - title: "Past & Present"
+        url: /projects
+      - title: "Ideas"
+        url: /ideas/
