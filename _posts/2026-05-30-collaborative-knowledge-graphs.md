@@ -9,9 +9,9 @@ toc: true
 
 <!-- Main goal: establish a typology of CKGs, show existing success, their promise and untapped potential -->
 Open, collaborative curation of knowledge graphs (KGs) has already contributed to making the internet more structured and trustworthy, and shows promise for continuing to do so in the coming decades.
-We use the term **collaborative knowledge graph** (CKG) for KGs that are collaboratively curated by a group of people.
-Below is a review of different examples of CKGs, identifying three main types of collaboration. 
-The aim is to broadly cover the panorama of CKGs, but certainly not of all open KG databases.
+I use the term **collaborative knowledge graph** (CKG) for KGs that are collaboratively curated by a group of people.
+Below is a review of different examples of CKGs, identifying three main types of collaboration.
+The aim is to broadly cover the panorama of CKGs, but certainly not of all open KGs.
 
 
 ## Why Knowledge Graphs?
@@ -52,7 +52,7 @@ ORKG invites contributions from logged-in users to add or edit various elements 
 
 ### Collaborative Ontologies
 
-An ontology is the schema layer of a KG: the vocabulary of entity types (classes) and relation types (properties), together with the constraints governing how they legitimately combine. Below we outline three ways in which ontologies can be collaboratively defined:  schema emerging from data entry, schema as the product itself, and schema embodied in explicit extraction mappings. 
+An ontology is the schema layer of a KG: the vocabulary of entity types (classes) and relation types (properties), together with the constraints governing how they legitimately combine. Below I outline three ways in which ontologies can be collaboratively defined:  schema emerging from data entry, schema as the product itself, and schema embodied in explicit extraction mappings. 
 
 [Wikidata's ontology](https://www.wikidata.org/wiki/Wikidata:WikiProject_Ontology) is itself collaboratively maintained. While anyone can create classes (items, with Q-IDs), proposing properties (with P-IDs) requires community discussion and consensus.
 This process helps keep the ontology consistent, but can also slow schema evolution and requires active community moderation. In practice, only a small fraction of Wikidata users shape its ontology, suggesting that its collaborative aspect happens more at the data entry level.[^piscopo2]
