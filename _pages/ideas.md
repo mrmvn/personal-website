@@ -9,7 +9,7 @@ sidebar:
 ---
 
 Get in touch to discuss or collaborate on any of them.\
-You'll find past and ongoing projects [there](/projects).
+You'll also find past and ongoing projects [there](/projects).
 
 ## Research
 
@@ -20,7 +20,7 @@ You'll find past and ongoing projects [there](/projects).
 
 ## R&D on Collaborative Platforms
 
-For collective ideation, impact assessment, opining, claim-linking & fact-checking...? 
+What platforms for collective ideation, impact assessment, opining, claim-linking, fact-checking...? 
 
 ## Open Data
 

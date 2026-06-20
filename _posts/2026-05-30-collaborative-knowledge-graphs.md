@@ -24,12 +24,12 @@ In a web whose traffic is increasingly mediated by bots, and where information a
 ## Examples of CKGs
 
 We'll be using these examples throughout:
-- [Wikidata](https://www.wikidata.org/)[^vrandecic], the central knowledge graph of encyclopedic knowledge, used across Wikimedia projects and the most studied CKG — collaborative at every layer (data, ontology, bots),
+- [Wikidata](https://www.wikidata.org/)[^vrandecic], the central knowledge graph of encyclopedic knowledge, used across Wikimedia projects and the most studied KG, collaborative at various layers,
 - [Wikibase ecosystem](https://wikibase-metadata.wmcloud.org/)[^diefenbach], the interoperable pool of KGs built on Wikidata's software, each with its own community and governance,
 - [DBpedia](https://www.dbpedia.org/)[^lehmann], structured knowledge extracted from Wikipedia and a founding hub of the Linked Open Data cloud, where collaboration sits in the extraction framework and ontology mappings rather than data entry,
-- [ORKG](https://orkg.org/)[^auer][^jaradeh], a graph of machine-actionable scholarly knowledge — papers, comparisons, reviews — contributed by logged-in researchers,
+- [ORKG](https://orkg.org/)[^auer][^jaradeh], a graph of machine-actionable scholarly knowledge,
 <!-- - [ConceptNet](https://conceptnet.io/)[^speer], a crowdsourced multilingual graph of commonsense knowledge, grown from the Open Mind Common Sense project, -->
-- [schema.org](https://schema.org/)[^guha], a shared vocabulary for marking up structured data on web pages, collaborative only at the ontology layer and governed by a small group with strong big-tech ties,
+- [schema.org](https://schema.org/)[^guha], a shared vocabulary/ontology for marking up structured data on web pages,
 - [OBO foundry](https://obofoundry.org/)[^smith], a federation of interoperable biomedical ontologies coordinated under explicit shared design principles.
 
 
@@ -79,11 +79,10 @@ On Wikidata, [bots](https://www.wikidata.org/wiki/Wikidata:Bots) currently accou
 
 Although we outlined three general categories of collaboration, every project has its own focus community and governance structure. Collaboration varies quantitatively and qualitatively in each case, crossing over different modes with a mix that may vary in time.
  
-Even when there exist collaborative processes, data, ontology or algorithmic curation is often reserved to a small group of skilled developers or domain experts, in some cases with strong ties with major big tech companies (e.g., schema.org). This creates biases and generates a power asymmetry, skewing most CKG projects.[^gianluca] 
+Even when there exist collaborative processes, data, ontology or algorithmic curation is often reserved to a small group of skilled developers or domain experts, in some cases with strong ties with major big tech companies (e.g., schema.org). This creates biases and results in power asymmetries affecting most CKG projects.[^gianluca] 
 Improving the accessibility of editing interfaces and processes would already alleviate some of these issues, but this will likely remain a persisting challenge for these and future CKGs.
 
-In the coming years, I wouldn't be surprised to see CKGs being used for new and diverse applications such as fact-checking, impact assessment, value alignment; to see some as providing a shared, verifiable substrate for an agent-mediated web, and others as the ground for new forms of collaboration between humans and machines.
-
+In the coming years, we can expect to see CKGs being used for new and varied applications such as fact-checking, impact assessment, value alignment; providing a shared, verifiable substrate for an agent-mediated web, or ground for new forms of human and human-machine collaboration.
 
 ## References
 

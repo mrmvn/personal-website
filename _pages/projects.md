@@ -8,8 +8,9 @@ sidebar:
   nav: "projects_sidebar"
 ---
 
-Ongoing and past projects below.\
-You'll find future project ideas [there](/ideas).
+Ongoing and previous projects below.\
+You'll also find some drafty project ideas [there](/ideas).
+
 ## Ongoing
 
 - *A Knowledge Graph of Public AI Data* ([blog](/kg-public-ai-data/), [wikibase](https://public-ai-data-sources.wikibase.cloud/), [repo](https://github.com/mrmvn/public-ai-data-viz))
@@ -20,17 +21,17 @@ Forms*, to be presented at the Democracy & Digital Citizenship 2026 conference,
 - [CommonGraph](https://commongraph.org), a prototype platform builder for graph-based knowledge co-production and collaboration.
 
 
-## Previous projects
+## Previously
 
-- AI & XR for cognitive and visual impairment (at Animorph Co-op and CrossSense Ltd, 2024-2025)
+- XR & AI app development for cognitive and visual impairment (Animorph Co-op & CrossSense)
     - [CrossSense](https://crosssense.com/), 
     - [EyeFocus](https://animorph.coop/work/eyefocus/)
 
-- Data analysis and modelling for environmental monitoring during Covid 19 crisis (at UKHSA, DHSC):
+- Data analysis and modelling for environmental monitoring during Covid 19 crisis (UKHSA, DHSC):
     - Multivariate, spatiotemporal modelling of Covid 19 prevalence from wastewater data in England.[^morvan_analysis] ([blog](https://communities.springernature.com/posts/from-the-english-sewage-to-covid-19-infections-using-machine-learning))
     - Lessons Learned from the United Kingdom National COVID-19 Surveillance Programmes in Monitoring Wastewater. [^wade_wastewater][^wade_understanding]
 
-- Modelling exoplanets with deep learning (at University College London):
+- Modelling exoplanets with deep learning (UCL):
     - 2023 PhD thesis: time series analysis, deep learning for exoplanetary transit modelling [^morvan_deep]
     - Ariel Machine Learning Data Challenges (ECML 2019[^nikolaou], 2020, 2021, NeurIPS 2022[^yip_esa][^yip_lessons])
     - XAI for astmospheric retrievals[^yip_peeking]
