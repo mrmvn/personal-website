@@ -9,10 +9,9 @@ header:
     overlay_filter: 0.5
     actions:
         - label: "random quote"
-excerpt: ""
+excerpt: "Mario Morvan: Interdisciplinary researcher, data & ML scientist, technologist and communicator working towards a better informed society."
 intro:
-  - excerpt: 'Interdisciplinary researcher, data & ML scientist, technologist and communicator with an active interest in opening knowledge, science and democracy.'
-
+  - excerpt: 'Interdisciplinary researcher, data & ML scientist, technologist and communicator working towards a better informed society.'
 ---
 
 {% include feature_row id="intro" type="center" %}
