@@ -4,7 +4,7 @@ date:   2026-05-17
 last_modified_at: 2026-05-20
 tags: ["Wikipedia", "citations"]
 categories: ["Research", "Blog"]
-excerpt: "How citing source segments can help fight misinformation on Wikipedia"
+excerpt: "How specifying in-source location can help fight misinformation on Wikipedia"
 toc: true
 ---
 

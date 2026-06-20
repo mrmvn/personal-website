@@ -4,6 +4,7 @@ date:   2026-05-30
 last_modified_at: 2026-06-04
 tags: ["Knowledge Graph", "Co-production"]
 categories: ["Blog"]
+excerpt: "Examples of Collaborative Knowledge Graphs seen at 3 collaboration layers"
 toc: true
 ---
 

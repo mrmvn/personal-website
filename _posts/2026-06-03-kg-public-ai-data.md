@@ -3,6 +3,7 @@ title:  "A Knowledge Graph of AI models & training data"
 date:   2026-06-03
 tags: ["Open Data", "Public AI", "Knowledge Graph", "Linked Data"]
 categories: ["Open", "Viz"]
+excerpt: "Introducing a wikibase and HTML viz of AI models and their training data"
 # toc: true
 ---
 
