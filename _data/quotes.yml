@@ -309,13 +309,13 @@
   content_en: "We should continue to use simple models where they capture enough of the core underlying structure and incentives that they usefully predict outcomes. When the world we are trying to explain and improve, however, is not well described by a simple model, we must continue to improve our frameworks and theories so as to be able to understand complexity and not simply reject it."
   language_original: en
   content_fr: ""
-- id: bafyreifzxz2fseocrcei6473mrr5dqwzdrf6ni55sxipyhhwwdjliadqf4
-  author: "Daniel Schachtenberger"
-  source: "Search Of The Third Attractor"
-  source_loc: "(14' In Part 2)"
-  content_en: "Can we build something with the very best of the knowledge and information technologies available to us now, that makes coherent choices, that factors the total collective intelligence and total collective agency with the speed and coherence that a small number of agents would have, and yet, without any kind of centralised power."
-  language_original: en
-  content_fr: ""
+# - id: bafyreifzxz2fseocrcei6473mrr5dqwzdrf6ni55sxipyhhwwdjliadqf4
+#   author: "Daniel Schachtenberger"
+#   source: "Search Of The Third Attractor"
+#   source_loc: "(14' In Part 2)"
+#   content_en: "Can we build something with the very best of the knowledge and information technologies available to us now, that makes coherent choices, that factors the total collective intelligence and total collective agency with the speed and coherence that a small number of agents would have, and yet, without any kind of centralised power."
+#   language_original: en
+#   content_fr: ""
 - id: bafyreigvxdkiefi6prscdmefgnnjz2q7yu6ykw7tdigggmlehw5yyp5apm
   author: "Octavia Butler"
   source: "Parable Of The Talents"
@@ -795,7 +795,7 @@
   language_original: en
   content_fr: ""
 - id: bafyreiahvxfy7pmf7epvef4mn46vyhbloqs5xjmdcxfg7taetakm4dbdra
-  author: "Daniel Schachtenberger"
+  author: "Daniel Schmachtenberger"
   source: "Search Of The Third Attractor"
   source_loc: "1H11mn"
   content_en: "What will actually make it through is not a theory of change, but an ecology of theory of changes like multiple different solutions that have virtuous relationships with each other."
