@@ -137,9 +137,12 @@ A few caveats:
 We think that these only represent a small fraction of all citations, and do not change in any significant way the argument,
 
 
+## See also
+
+- Presentation at Wikimania in July 2026 ([Talk page](https://wikimedia.eventyay.com/wm/wikimania2026/talk/YASJQZ/), [Slides](assets/docs/cln_slides_wikimania.pdf), [Recording](https://youtu.be/IKDrJJMUDW8?t=27044))
 
 ## References
- 
+
 [^redi_2018]: Redi, M., Taraborelli, D. & Orlowitz, J. How many Wikipedia references are available to read? We measured the proportion of open access sources across languages and topics. Wikimedia Foundation (2018). [wikimediafoundation.org](https://wikimediafoundation.org/news/2018/08/20/how-many-wikipedia-references-are-available-to-read/)
 
 [^petroni_2023]: Petroni, F. et al. Improving Wikipedia verifiability with AI. Nat Mach Intell 5, 1142–1148 (2023). [nature.com](https://www.nature.com/articles/s42256-023-00726-1)

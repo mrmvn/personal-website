@@ -17,6 +17,7 @@ You'll also find past and ongoing projects [there](/projects).
 - Who decides the topics? Power imbalance on the informational public sphere
 - Connectivity and coherence of collectively modelled knowledge 
 - Citizen-washing: the veil of modern democratic participation
+- DemocraTree: An Inventory and Interactive Map of Democratic Forms
 
 ## R&D on Collaborative Platforms
 
