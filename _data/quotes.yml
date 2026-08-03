@@ -35,7 +35,7 @@
   source_fr: "Une saison au Congo"
   content_fr: "Tous les révolutionnaires sont des naïfs : ils ont confiance en l'homme ! Quelle tare ! Confiance en l'homme !"
   language_original: fr
-  content_en: ""
+  content_en: "All revolutionaries are naive: they trust man! What a mistake! Trusting man!"
 - id: bafyreifivvrypjymzfkcvmolrprjfpbvy4difmo5ipjhgogbdjd5beiq2q
   author: "Romano Theunissen"
   source_en: "'The Futures Cone Reimagine: A Framework for Critical and PLural Futures Thinking' in the Journal of Futures Studies"
@@ -59,7 +59,8 @@
   source_fr: "Unknown Source"
   content_fr: "Si vous voulez comprendre ma politique, lisez ma poésie."
   language_original: fr
-  content_en: ""
+  content_en: "If you want to understand my politics, read my poetry."
+  translator_en: "myself"
 - id: bafyreieqvw4ipuelfmyzev4osc2nkod2435zoykyr7k4nejp24kunipvra
   author: "Raymond Williams"
   source_en: "The Politics of Nuclear Disarmament"
@@ -72,7 +73,8 @@
   content_fr: "La Justice écoute aux portes de la beauté."
   language_original: fr
   content_en: "Justice listens at the gates of beauty."
-  source_en: "Lyric and Dramatic Poetry, 1946-82, trans. Clayton Eshleman & Annette Smith"
+  source_en: "Lyric and Dramatic Poetry, 1946-82"
+  translator_en: "Clayton Eshleman & Annette Smith"
 - id: bafyreib54gfwnx42w6n7oxeoerelco2zhdera7flosop6evuukgyql53za
   author: "Sheila Jasanoff"
   source_en: "Future Imperfect: Science, Technology, and the Imaginations of Modernity"
@@ -102,7 +104,8 @@
   source_fr: "Débat autour du livre 'Oser penser sa pensée' avec Janine Guespin et Bernard Friot"
   content_fr: "Athée, on se croit vacciné contre la croyance, ce qui est la pire des choses. On y adhère, mais alors d'une façon invraisemblable !"
   language_original: fr
-  content_en: ""
+  content_en: "Atheists tend to think of themselves as immune against belief, which is the worst thing. We fall into it in an unbelievable way!"
+  translator_en: "myself"
 - id: bafyreib7pfnrxp6rvyu3yyq4qgolla2xyneqj7zd7ckrtgexsmrqqudzz4
   author: "Sheila Jasanoff"
   source_en: "Future Imperfect: Science, Technology, and the Imaginations of Modernity"
@@ -133,12 +136,12 @@
   content_en: "Sociotechnical imaginaries […] as collectively held, institutionally stabilized, and publicly performed visions of desirable features animated by shared understandings of forms of social life and social order attainable through and supportive of advances in science and technology."
   language_original: en
   content_fr: ""
-- id: bafyreihd55qxe7b6x46rjikmi2xffltjhtshlpc7rzx2ufavnbbmqaeana
-  author: "Geoffrey de Lagasnerie"
-  source_fr: "L'Ame Noire de la Démocratie"
-  content_fr: "Une déconnexion entre la logique du droit et la logique du territoire, qui instaure la possibilité de choisir le droit beaucoup plus que de le subir, de pluraliser les ordres juridiques auxquels les personnes (morales) sont soumises et donc de dissocier les structures juridiques et les structures nationales."
-  language_original: fr
-  content_en: ""
+# - id: bafyreihd55qxe7b6x46rjikmi2xffltjhtshlpc7rzx2ufavnbbmqaeana
+#   author: "Geoffrey de Lagasnerie"
+#   source_fr: "L'Ame Noire de la Démocratie"
+#   content_fr: "Une déconnexion entre la logique du droit et la logique du territoire, qui instaure la possibilité de choisir le droit beaucoup plus que de le subir, de pluraliser les ordres juridiques auxquels les personnes (morales) sont soumises et donc de dissocier les structures juridiques et les structures nationales."
+#   language_original: fr
+#   content_en: ""
 - id: bafyreiarob677vo6um7xoktqhmkasvtv42qogin4jf5wc2p2756ceycgrm
   author: "Christian List"
   source_en: "'Consciousness reveals there's no single objective world', iai news"
@@ -157,7 +160,8 @@
   source_fr: "L'Ame Noire de la Démocratie"
   content_fr: "En me faisant croire que ce que je pense à un moment donné est mien, la démocratie contribue peut-être moins à me protéger qu'à m'enfermer dans une représentation problématique de moi-même et de mon identité au détriment d'autres."
   language_original: fr
-  content_en: ""
+  content_en: "By having me believe that what I think is my own at a given time, democracy's effect might not so much be to protect me as to enclose my views within a problematic representation of myself and my identity at other's expense."
+  translator_en: "myself"
 - id: bafyreibfpca4b6sui44twkznq2ia5se6zgqyq4mvgb66azu4xfnxivkjmq
   author: "Mancur Olson"
   source_en: "The Logic Of Collective Action"
@@ -285,15 +289,17 @@
 - id: bafyreidzupaztnuosu2lxuxwcdmdx7tprh44rwdg2lki2l7tydlahucijy
   author: "Geoffrey de Lagasnerie"
   source_fr: "L'Ame Noire de la Démocratie"
-  content_fr: "Puisqu'une décision est toujours le fait de quelque-uns contre quelques autres, elle ne devrait pouvoir revendiquer sa légitimité que si elle est plus juste, plus humaine, pkus rationnelle, si elle intervient sur le monde pour en corriger le fonctionnement inégalitaire."
+  content_fr: "Puisqu'une décision est toujours le fait de quelque-uns contre quelques autres, elle ne devrait pouvoir revendiquer sa légitimité que si elle est plus juste, plus humaine, plus rationnelle, si elle intervient sur le monde pour en corriger le fonctionnement inégalitaire."
   language_original: fr
-  content_en: ""
+  content_en: "Since a decision always originates from a limited number of people against others, its legitimacy should only be claimed provided it is fairer, more humane, more rational, if it corrects how the inequalities in how the world operates."
+  translator_en: "myself"
 - id: bafyreic62ssbck2lj2323b3sxbmnn3hs2ren5xlzvsd774z7suroxm7uky
   author: "Clémentine Beauvais"
   source_fr: "Pour Le Droit De Vote Dès La Naissance"
   content_fr: "Les enfants posent des questions gênantes, parce que fondamentales, sur la guerre, sur la viande, sur l'argent, sur l'amour, sur la mort."
   language_original: fr
-  content_en: ""
+  content_en: "Children ask embarrassing questions, because they are essential, on war, on meat, on money, on love, on death."
+  translator_en: "myself"
 - id: bafyreia364ddo3vl67imif3ml3k3bjearzv55owxgp4ptfzer3qovvuetu
   author: "Adrienne Maree Brown"
   source_en: "Emergent Strategy"
@@ -358,7 +364,8 @@
   source_fr: "Pour Le Droit De Vote Dès La Naissance"
   content_fr: "Quand la réflexion abstraite se met en place, quand un enfant commence à être capable de lire une carte, d'appréhender une chaîne causale plus complexe, on accompagne cette réflexion d'exemples plus éloignés."
   language_original: fr
-  content_en: ""
+  content_en: "When abstract reflection develops, when a child starts to be able to read a map, to comprehend more complex causal chains, we would accompany this reflection with more complex examples."
+  translator_en: "myself"
 - id: bafyreiazhtz4vdrpuc3rru2uqodtmlvtgzfgd4be23ab6z75ttcrzezn4y
   author: "Yochai Benkler"
   source_en: "The Wealth Of Networks"
@@ -378,13 +385,15 @@
   source_fr: "Entretien Between Simon Blin And Edgar Morin, 4 July 2024"
   content_fr: "La nouvelle résistance est d'abord la résistance de l'esprit aux mensonges, aux illusions, aux hystéries collectives sur lesquelles surfe l'extrême droite en France et en Europe."
   language_original: fr
-  content_en: ""
+  content_en: "The new resistance is primarily a resistance of the mind to the wave of lies, illusions, and collective hysteria that the far right is riding on in France and Europe."
+  translator_en: "myself"
 - id: bafyreiao5dinrwv3a337pgwmqhcyy33ygt2kewj57jzx63gl3wcoduv6ca
   author: "Salomé Saqué"
   source_fr: "Résister"
   content_fr: "L'information est un bien public qu'il faut collectivement financer et soutenir si l'on veut s'assurer que le pluralisme des idées et des voix reste au coeur de notre système démocratique."
   language_original: fr
-  content_en: ""
+  content_en: "Information is a public good to collectively finance and support if we want to ensure that the pluralism of ideas and voices remain at the heart of our democratic system."
+  translator_en: "myself"
 - id: bafyreihouqbouyw7d2hz5oxxluh3c5cocwt6rxgqowf6c6jc72lzk3bsra
   author: "Elinor Ostrom"
   source_en: "Governing The Commons"
@@ -404,7 +413,8 @@
   source_fr: "Entretien Avec Mediapart, Mars 2025"
   content_fr: "C'est très très important de relayer les choses qu'on fait, et qui ont du sens, et qui marchent."
   language_original: fr
-  content_en: ""
+  content_en: "It is very very important to share the things that we do, that are meaningful and that work."
+  translator_en: "myself"
 - id: bafyreidsiscw3xsfruoi4p757idlcmqaj4a4hpaaqkfawm3lpn5mi6hsqm
   author: "Yochai Benkler"
   source_en: "The Wealth Of Networks"
@@ -508,7 +518,8 @@
   source_fr: "Pour Le Droit De Vote Dès La Naissance"
   content_fr: "L'une des grandes idées reçues sur l'enfance est qu'elle n'a rien à voir avec la politique."
   language_original: fr
-  content_en: ""
+  content_en: "One of the greatest preconceived ideas about childhood is that it has nothing to do with politics."
+  translator_en: "myself"
 - id: bafyreia3h5dwzst5hbzizw7bkhzbit7mx3ugmebalcfcbycz3fbtoqfx4a
   author: "Adrienne Maree Brown"
   source_en: "Emergent Strategy"
@@ -745,7 +756,8 @@
   source_fr: "Pour Le Droit De Vote Dès La Naissance"
   content_fr: "Si l'incompétence de l'électorat enfantin reste à prouver, il faudra s'entraîner dur pour battre les records olympiques de l'électorat adulte en la matière."
   language_original: fr
-  content_en: ""
+  content_en: "If it remains to be proven that a child electorate would be incompetent, beating the olympic records from the adult electorate will require hard training."
+  translator_en: "myself"
 - id: bafyreifwpre7pgfcx2exrsevsizvvxvx7wqjvounvxr66f6ijuehlwh65i
   author: "Yochai Benkler"
   source_en: "The Wealth Of Networks"
@@ -811,7 +823,8 @@
   source_fr: "L'Ame Noire de la Démocratie"
   content_fr: "En démocratie, l'autre est construit comme un sujet en mon pouvoir."
   language_original: fr
-  content_en: ""
+  content_en: "In democracy, the other is constructed as a subject in my power."
+  translator_en: "myself"
 - id: bafyreiftbogqxmgtbs44dwpgxtblo2lu2xoludui57672qgfbhcmbeuapi
   author: "Ursula K. Le Guin"
   source_en: "The Mind is Still"
@@ -843,7 +856,8 @@
   content_fr: "Nous pensons un univers que notre langue a déjà modelé."
   language_original: fr
   content_en: "We think a universe that our language has already shaped."
-  source_en: "Problems in General Linguistics, trans. Mary Elizabeth Meek (University of Miami Press) — exact wording not independently verified against this edition"
+  source_en: "Problems in General Linguistics"
+  translator_en: "Mary Elizabeth Meek"
 - id: bafyreihubewea5dbnevne2bnulewbq54hud6x6nd3sqxns4kzbbpsfrgmq
   author: "Steven D. Levitt and Stephen J. Dubner"
   source_en: "Freakonomics"
@@ -856,7 +870,7 @@
   source_fr: "Pour Le Droit De Vote Dès La Naissance"
   content_fr: "Le moment du vote, en effet, ne requiert aucune compétence particulière, et <em>justement</em>."
   language_original: fr
-  content_en: ""
+  content_en: "Voting time does not require any particular skill, and <em>rightly so<em>."
 - id: bafyreicg3bp7cinoka4wsip4rc6bvdnv3uuh7yg3i44fbjffqs5tmantn4
   author: "John Ralston Saul"
   source_en: "1992 interview with Barry James, International Herald Tribune"
@@ -958,7 +972,8 @@
   source_fr: "L'Ame Noire de la Démocratie"
   content_fr: "Si les sciences représentent la pratique à travers laquelle l'homme prend conscience de l'humanité, et si la politique est le lieu où l'homme agit sur l'humanité, il semble aberrant de ne pas lier le plus possible l'action et la connaissance."
   language_original: fr
-  content_en: ""
+  content_en: "If sciences represent the practice through which man becomes aware of humanity, and if politics is how man acts upon humanity, it becomes ludicrous to not link action to knowledge as much as possible."
+  translator_en: "myself"
 - id: bafyreicuehqyjalih7etcrcaafznm5mkcaiy4spivbqfjxbbnfjpj7m3mm
   author: "David Brin"
   source_en: "The Self-Preventing Prophecy: Or How A Dose Of Nightmare Can Help Tomorrow's Perils"
@@ -1010,9 +1025,9 @@
 - id: bafyreibrjbt4urr4zlrkutmie42wgxcv5ejnwsosn26oilayo7f2tid6vi
   author: "Geoffrey de Lagasnerie"
   source_fr: "L'Ame Noire de la Démocratie"
-  content_fr: "Le projet d'une politique progressiste devrait s'articuler beaucoup plus à une grammaire de l'augmentation et de la séparation qu'à une exigence de représentation et d'autogouvernement."
+  content_fr: "Le projet d'une politique progressiste devrait s'articuler beaucoup plus à une grammaire de l'argumentation et de la séparation qu'à une exigence de représentation et d'autogouvernement."
   language_original: fr
-  content_en: ""
+  content_en: "A progressive political programme should be centred on argumenting and separating rather than a requirement of representation and self-governance."
 - id: bafyreihi222xvxu6wi3qfqjty5bgfymnuhgf7uskvtqo7i3ggxkn25dtie
   author: "Donella Meadows"
   source_en: "Thinking In Systems"
@@ -1025,7 +1040,8 @@
   source_fr: "Pour Le Droit De Vote Dès La Naissance"
   content_fr: "Quels sont les biais qui me font prendre mon cas pour une généralité, ou au contraire me conduisent à le minimiser ?"
   language_original: fr
-  content_en: ""
+  content_en: "What are the biases that push me to treat my case as universal, or on the contrary, to minimise it?"
+  translator_en: "myself"
 - id: bafyreigju3d64wo42iq7ly72ul2qxmltg53tx33aovsj6nrhc3rxed6czu
   author: "Michael Albert"
   source_en: "Parecon"
@@ -1077,7 +1093,8 @@
   source_fr: "Histoire De La Sécu (Preface)"
   content_fr: "C'est quoi être classe révolutionnaire aujourd'hui ? C'est poser que tout majeur, de 18 à sa mort, est en capacité et en responsibilité du travail ; de définir l'investissement, de définir la création monétaire, de définir quel travail va être fait, comment, selon quel collectif."
   language_original: fr
-  content_en: ""
+  content_en: "What does a revolutionary class imply today? It means to assert that everyone above 18 and until their death is capable and responsible over work. This translates into defining investment, monetary creation, what work is to be done, how, and according to which collective."
+  translator_en: "myself"
 - id: bafyreiez2isnbftgxgwpxl3fl4nn4sljv4ip7sztvaih5qqogzwphdk3he
   author: "Octavia Butler"
   source_en: "Parable Of The Sower"
@@ -1109,14 +1126,16 @@
   source_fr: "Pour Le Droit De Vote Dès La Naissance"
   content_fr: "La complexité même des différents types de scrutins, l'illisibilité de la plupart des mesures, l'impossibilité de distinguer les tenants et les aboutissants de chaque proposition dans un programme touffu, pourraient nous motiver à envisager d'autres manières de faire de la démocratie à différentes échelles."
   language_original: fr
-  content_en: ""
+  content_en: "The complexity of ballot types, the opacity of most measures, the impossibility of distinguishing between cause and effects for each proposal in a hefty programme, this could serve as motivation to envision other ways to enact democracy at different scales."
+  translator_en: "myself"
 - id: bafyreicnge5kzhlncbdu5ucz736c5ixxwyyjendxymniaxdc7dttvpepie
   author: "Emile Durkheim"
   source_fr: "De la division du travail social"
   source_loc: "Livre I"
   content_fr: "Mais comment ne pas voir que, à supposer que l'homme veuille vivre, une opération très simple transforme immédiatement les lois qu'elle établit en règles impératives de conduite ?"
   language_original: fr
-  content_en: ""
+  content_en: "But could we ignore that, assuming that humans want to live, a very simple operation immediately translates the law into a code of conduct?"
+  translator_en: "myself"
 - id: bafyreibunl7zr26kjcyqhc64jin7s6ksizovyhkjl6svw3o23dvobj3ztu
   author: "Yochai Benkler"
   source_en: "The Wealth Of Networks"
@@ -1147,7 +1166,8 @@
   source_fr: "L'Ame Noire de la Démocratie"
   content_fr: "Montrez-nous que votre politique aura des effets de protection des forces de la vie et de diminution des forces de la prédation et de la souffrance."
   language_original: fr
-  content_en: ""
+  content_en: "Show us how your political plan will result in the protection of vital forces and the weakening of forces associated with predation and suffering."
+  translator_en: "myself"
 - id: bafyreicmtixo5ntcveypzn4y6yusuwdheinynbpfau2lyb3qpk6hv2qgiy
   author: "Judith Butler"
   source_en: "To Imagine A World After This, Democracy Needs The Humanities, 20Th Feb 2025"
@@ -1199,7 +1219,8 @@
   source_fr: "Résister"
   content_fr: "Pendant qu'ils ressassent le passé, on invente l'avenir."
   language_original: fr
-  content_en: ""
+  content_en: "While they keep rehashing the past, we invent the future."
+  translator_en: "myself"
 - id: bafyreicwoa6wryus45tvina3njmd7pualalyhdpnsoczh6m7uxeqwlejfu
   author: "Adrienne Maree Brown"
   source_en: "Emergent Strategy"
@@ -1277,5 +1298,6 @@
   source_fr: "Pour Le Droit De Vote Dès La Naissance"
   content_fr: "Nous ne savons rien de ce à quoi peut ressembler un pays, un continent, un monde où les enfants votent."
   language_original: fr
-  content_en: ""
+  content_en: "We know nothing about what a country, a continent, a world where children vote could look like."
+  translator_en: "myself"
 ---
