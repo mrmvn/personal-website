@@ -4,7 +4,8 @@
   source: "Discours sur le colonialisme"
   content_fr: "Une civilisation qui s'avère incapable   \nde résoudre les problèmes   \nque suscite son fonctionnement   \nest une civilisation décadente.   \nUne civilisation qui choisit de fermer les yeux   \nà ses problèmes les plus cruciaux   \nest une civilisation atteinte."
   language_original: fr
-  content_en: ""
+  content_en: "A civilization that proves incapable of solving the problems it creates is a decadent civilization. A civilization that chooses to close its eyes to its most crucial problems is a stricken civilization."
+  url_en: "https://www.goodreads.com/work/quotes/83580-discours-sur-le-colonialisme"
 - id: bafyreid455xapss5kd6ey6iztnrpm33d2c3xd5plbsvlavb6jqfzbkt4je
   author: "Karl Marx"
   source: "Capital Volulme I"
@@ -41,12 +42,6 @@
   content_en: "Futures are not imagined as separate from the past, but as reactivations of storylines, remembered, honoured, and renewed."
   language_original: en
   content_fr: ""
-- id: bafyreiesrwblopxm2dwmhskkipn6jlsxwdxevm6r2huftbac3vtcxgecqy
-  author: "Bernard Friot"
-  source: "Débat autour du livre 'Oser penser sa pensée' avec Janine Guespin et Bernard Friot"
-  content_fr: "Athée, on se croit vacciné contre la croyance, ce qui est la pire des choses.   \nOn y adhère, mais alors d'une façon invraisemblable !"
-  language_original: fr
-  content_en: ""
 - id: bafyreigk2auoyrcvhvediwqravn7zouhgmtubgwsczgyd7bqwxrp7rvmom
   author: "Michael Aaron"
   source: "Our Monsters, Ourselves"
@@ -76,7 +71,8 @@
   source: "Moi, laminaire…"
   content_fr: "La Justice écoute aux portes de la beauté."
   language_original: fr
-  content_en: ""
+  content_en: "Justice listens at the gates of beauty."
+  source_en: "Lyric and Dramatic Poetry, 1946-82, trans. Clayton Eshleman & Annette Smith"
 - id: bafyreib54gfwnx42w6n7oxeoerelco2zhdera7flosop6evuukgyql53za
   author: "Sheila Jasanoff"
   source: "Future Imperfect: Science, Technology, and the Imaginations of Modernity"
@@ -258,8 +254,9 @@
   author: "Michel Foucault"
   source: "Le Sujet Et Le Pouvoir"
   content_fr: "Sans doute l'objectif principal aujourd'hui n'est-il pas de découvrir, mais de refuser ce que nous sommes. Il nous faut imaginer et construire ce que nous pourrions être."
-  language_original: fr
-  content_en: ""
+  language_original: en
+  content_en: "Maybe the target nowadays is not to discover what we are but to refuse what we are. We have to imagine and to build up what we could be to get rid of this kind of political 'double bind,' which is the simultaneous individualization and totalization of modern power structures."
+  url_en: "https://foucault.info/documents/foucault.power/"
 - id: bafyreibouahwpezlrbimbm7diy5us7sxjgbpnrzd2qacnnkvzlq7i3pfwq
   author: "C. Wright Mills"
   source: ""
@@ -844,7 +841,8 @@
   source: "Problèmes de linguistique générale"
   content_fr: "Nous pensons un univers que notre langue a déjà modelé."
   language_original: fr
-  content_en: ""
+  content_en: "We think a universe that our language has already shaped."
+  source_en: "Problems in General Linguistics, trans. Mary Elizabeth Meek (University of Miami Press) — exact wording not independently verified against this edition"
 - id: bafyreihubewea5dbnevne2bnulewbq54hud6x6nd3sqxns4kzbbpsfrgmq
   author: "Steven D. Levitt and Stephen J. Dubner"
   source: "Freakonomics"
@@ -876,7 +874,9 @@
   source: "Entretien Dans Le Documentaire 'Un Certain Regard', Ortf, 1974"
   content_fr: "Quand tout le monde vous ment en permanence, le résultat n'est pas que vous croyez ces mensonges mais que plus personne ne croit plus rien."
   language_original: fr
-  content_en: ""
+  content_en: "If everybody always lies to you, the consequence is not that you believe the lies, but rather that nobody believes anything any longer."
+  url_en: "https://www.nybooks.com/articles/1978/10/26/hannah-arendt-from-an-interview/"
+  source_en: "Hannah Arendt: From an Interview, The New York Review of Books, Oct. 26, 1978"
 - id: bafyreibgy2d2qfrvt6ogjyekjh7oasb5yyhxy74t2asbpiqoxkbdqgj4eq
   author: "Yochai Benkler"
   source: "The Wealth Of Networks"
@@ -902,7 +902,9 @@
   source: "Entretien Dans Le Documentaire 'Un Certain Regard', Ortf, 1974"
   content_fr: "Un peuple qui ne peut plus rien croire ne peut se faire une opinion. Il est privé non seulement de sa capacité d'agir mais aussi de sa capacité de penser et de juger. Et l'on peut faire ce que l'on veut d'un tel peuple."
   language_original: fr
-  content_en: ""
+  content_en: "And a people that no longer can believe anything cannot make up its mind. It is deprived not only of its capacity to act but also of its capacity to think and to judge. And with such a people you can then do what you please."
+  url_en: "https://www.nybooks.com/articles/1978/10/26/hannah-arendt-from-an-interview/"
+  source_en: "Hannah Arendt: From an Interview, The New York Review of Books, Oct. 26, 1978"
 - id: bafyreihk75cz3ksaqb26yh56g2tkughudtlo3twmrjrsdzxm4gvlwkihpq
   author: "Yochai Benkler"
   source: "The Wealth Of Networks"
@@ -1254,7 +1256,7 @@
   source: "La Pléiade, Iv, 'Carnets Du 7 Novembre 1958"
   content_fr: "La démocratie, ce n'est pas la loi de la majorité, mais la protection de la minorité."
   language_original: fr
-  content_en: ""
+  content_en: "Democracy is not the law of the majority but the protection of the minority."
 - id: bafyreihqt7exhxhlifdohsn2h4l6hjl6cqvftrihliykr3k6445pairciq
   author: "Steven D. Levitt and Stephen J. Dubner"
   source: "Freakonomics"
